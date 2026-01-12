@@ -70,3 +70,10 @@ log
 6. Hashing: Uses hash tables for near-instant lookups.
 7. Ternary Search: Splits array into three parts; useful for unimodal functions.
 <img width="494" height="336" alt="image" src="https://github.com/user-attachments/assets/b8051e37-b198-4304-b51e-802d66fbdb1e" />
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+=> Time Complexity Graph
+![1_5ZLci3SuR0zM_QlZOADv8Q](https://github.com/user-attachments/assets/36e06888-5248-4702-b042-8d83e4c8257d)
+
+
